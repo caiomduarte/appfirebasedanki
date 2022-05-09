@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549439727701",
+    "project_id": "fir-danki-7212d",
+    "storage_bucket": "fir-danki-7212d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549439727701:android:e68796006068ebde0f4cdc",
+        "android_client_info": {
+          "package_name": "com.example.appfirebasedanki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549439727701-9itrofrt2unvse7fd0r9pbh45ubtel2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIDjHSdrZjIwu-6mMOUkylj-5i2Is5wJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549439727701-9itrofrt2unvse7fd0r9pbh45ubtel2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
